@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/chengzhi/.vnc/config.d'
+let g:netrw_dirhist_2='/home/czong/.vim/bundle/Vundle.vim'
+let g:netrw_dirhist_3='/home/czong/Elevate'
+let g:netrw_dirhist_4='/Users/czong/.vim'
+let g:netrw_dirhist_5='/Users/czong/working/Fraud/rise_DM_fraud/dev1/feature_ranking'
